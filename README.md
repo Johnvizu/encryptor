@@ -1,6 +1,5 @@
 # encryptor
 Encriptador
-
 Encriptador es una aplicación web desarrollada con HTML, CSS y JavaScript que permite encriptar y desencriptar archivos de texto utilizando el algoritmo AES (Advanced Encryption Standard).
 
 Características
@@ -21,9 +20,7 @@ Uso
 3. Para desencriptar un archivo, hacer clic en el botón "Desencriptar archivo" y seleccionar el archivo a desencriptar. Se solicitará la clave de encriptación.
 
 Contribuir
-
 Si deseas contribuir al proyecto, puedes realizar un fork de este repositorio y enviar tus cambios mediante un pull request.
 
 Licencia
-
 Encriptador está bajo la licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
